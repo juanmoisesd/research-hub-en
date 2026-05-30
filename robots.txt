@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /admin/\nDisallow: /private/\n\nSitemap: https://juanmoisesd.github.io/research-hub-en/sitemap.xml", "tabId": 319334209
